@@ -2,12 +2,12 @@
     <div class="hello">
         <h1>{{ msg }}</h1>
         <p>
-            테스트입니다.<br />
+            그렇다<br />
             <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
         </p>
     </div>
 </template>
-<
+
 <script>
 export default {
     name: 'HelloWorld',
